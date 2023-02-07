@@ -6,3 +6,5 @@ ipykernel==6.21.1
 ipython==8.9.0
 jupyter_client==8.0.2
 jupyter_core==5.2.0
+Pillow >= 9.3
+pyrebase

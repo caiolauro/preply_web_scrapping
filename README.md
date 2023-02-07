@@ -7,4 +7,7 @@ I will have to login through the browser window and navigate to the main page an
 The second part of the project will be to push the scraped information and images to my firebase project. Since each record has a unique identifier it should be pretty straight forward to use that as the primary key to save the text to firestore. Also the images will need to be uploaded to firebase storage and links to the images saved as a field in firestore for each record.</p>
 
 ### References
-https://towardsdatascience.com/how-to-download-an-image-using-python-38a75cfa21c
+- https://towardsdatascience.com/how-to-download-an-image-using-python-38a75cfa21c
+- https://pypi.org/project/Pyrebase/
+- https://github.com/thisbejim/Pyrebase
+- https://www.youtube.com/watch?v=f_3YFEEovCc&t=622s
