@@ -1,4 +1,5 @@
 # **Preply Web Scrape and Upload to Firebase**
+![preply_web_scraping](preply_web_scraping.png)
 
 ### Task Description
 <p>Python script that scrapes records from a website (each record has about ten text fields and two images which need to be downloaded to a local folder) and save all the text information to a pandas data frame along with the image file names. 
